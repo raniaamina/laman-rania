@@ -4,21 +4,22 @@ email: "reaamina@gmail.com"
 description: "Sedang dipikirkan"
 url: "https://raniaamina.github.io"
 baseurl: "/laman-rania"
-facebook_username: ""
+facebook_username: "mas.dw"
 twitter_username: ""
-instagram_username: ""
-github_username:  ""
+instagram_username: "reaamina"
+github_username:  "raniaamina"
 deviantart_username: ""
 flickr_username: ""
+telegram_usernama: "raniaamina"
 discus_shortname: ""
 share: true
 
 # Owner/author information
 owner:
-  name:   photorama
+  name:   Rania Amina
   avatar: avatar.png
-  favicon: favicon.ico
-  info: photography website template
+  favicon: favicon.png
+  info: Sedang dipikirkan
 
 # Settings for comments helper
 # Set 'provider' to the comment provider you want to use. (i.e.  Disqus, Intense Debate, livefyre, or Facebook Comments)
